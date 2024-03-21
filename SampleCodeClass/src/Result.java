@@ -1,4 +1,4 @@
-public class Result {
+public class ILOVECODING {
     String name;
 
     int RE;
